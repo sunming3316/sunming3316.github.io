@@ -1,0 +1,71 @@
+---
+layout:     post
+title:      "Hello 2024"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2024-08-27 12:00:00
+author:     "Sun"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+
+---
+
+> “Yeah It's on. ”
+
+
+Sun 的 Blog 就这么开通了。
+
+[跳过废话，直接看技术实现 ](#build) 
+
+2024 年，Sun 总算有个地方可以好好写点东西了。
+
+
+作为一个菜逼，一直想搞一个 Blog 玩玩，奈何水平太烂，一路上全是沟沟坎坎，总算费时两周左右搭建好了一个 Blog 界面（这里特别感谢 Hux 大神的模板）。这里不得不吐槽 “世界上最远的距离是我和墙的距离”，换了阿里源之后，RubyGems 的版本只支持到 3.1，Ruby 的版本也 only 支持到 2.7,导致安装 Jekyll 的时候不得不重新升级各种包（着实是猴儿他妈——废废了）
+
+
+<p id = "build"></p>
+
+## 正文
+
+接下来说说搭建这个博客的技术细节。  
+
+正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 Building Blog 的技术方案，非常轻松时尚。
+
+其优点非常明显：
+
+* **Markdown** 带来的优雅写作体验
+* 非常熟悉的 Git workflow ，**Git Commit 即 Blog Post**
+* 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
+	* 如果需要自定义域名，也只需要简单改改 DNS 加个 CNAME 就好了 
+* Jekyll 的自定制非常容易，基本就是个模版引擎
+
+
+本来觉得最大的缺点可能是 GitHub 在国内访问起来太慢，所以第二天一起床就到 GitCafe(Chinese GitHub Copy，现在被 Coding 收购了) 迁移了一个[镜像](http://huxpro.coding.me)出来，结果还是巨慢。
+
+---
+使用 RVM 也挺坑的，国内基本上所有源都不支持 RVM （不知是否是被墙了，还是......），我也忘了自己怎么安装 RVM 的了（主要是确实挺麻烦，自己在搜索的时候，忘记写在记事本上，好像是通过 Gem 工具）。
+
+RVM 更新 Ruby 以及 RubyGems 是需要保证 apt-get update没有报错，因为二者是相依赖的关系，不过sudo apt uodate 出现了错误也别着急，下面给出解决办法：
+
+先通过 sudo apt-get update | grep "Failed" 命令查看是否存在错误，如果存在错误，直接将其移除。
+    例如：E: The repository 'http://ppa.launchpad.net/ubuntu-desktop/ubuntu-make/ubuntu focal Release' does not have a Release file.
+解决方法：删除或禁用有问题的 PPA 源： 你可以通过以下命令删除这个 PPA 源：
+    sudo add-apt-repository --remove ppa:ubuntu-desktop/ubuntu-make
+然后重新运行 sudo apt-get update 以确保没有其他错误。
+
+注意事项：
+1.一定要提前备份 /etc/apt/source.list文件（sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak）
+2.由于 Ubuntu Make 依赖于特定的 PPA 源，这些源可能不总是保持更新，尤其是对于较新版本的 Ubuntu 系统，可能会遇到不兼容的问题。
+
+(参考：https://sachingevariya.com/2015/08/requirementsdebianupdatesystem-ruby-222.html
+https://stackoverflow.com/questions/23650992/ruby-rvm-apt-get-update-error?newreg=ab52b0b5669d4acdaecec7819798ba1b
+https://stackoverflow.com/questions/48314479/error-while-running-sudo-apt-get-update)
+
+
+## 后记
+自己真NT，Ruby2.7 不支持Jekyll 3.X的版本,为什么不直接下载指定版本Jekyll（gem install -v XXX）
+
+回顾这个博客的诞生，纯粹是出于个人兴趣。
+
+如果你恰好逛到了这里，希望你也能喜欢这个博客主题。
+
+—— Sun 后记于 2024.09
