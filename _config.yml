@@ -1,11 +1,11 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Sun-ming's Blog
+SEOTitle: Sun's Blog | Your Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: sunming3316@gmail.com
+description: "不太想做人，所以做了一个网站！"
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "https://sunming3316.github.io/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
