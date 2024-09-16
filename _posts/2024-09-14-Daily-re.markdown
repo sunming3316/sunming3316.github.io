@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "今日小结"
-subtitle:   "随便写写"
+subtitle:   "2024-09-14"
 date:       2024-09-14
 author:     "Sun"
 
