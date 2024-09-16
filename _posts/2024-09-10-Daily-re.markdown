@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "今日小结"
-subtitle:   "Daily re-20240910"
+subtitle:   "2024-09-10"
 date:       2024-09-10
 author:     "Sun"
 
