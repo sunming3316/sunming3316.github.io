@@ -1,7 +1,7 @@
 # Site settings
 title: Sun-ming's Blog
 SEOTitle: Sun's Blog
-header-img: img/home-bg.jpg
+header-img: img/Sun.jpeg
 email: sunming3316@gmail.com
 description: "不太想做人，所以做了一个网站！"
 keyword: ""
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar-about-description: "弱小和无知不是障碍，傲慢才是！"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -84,17 +84,5 @@ friends: [
     {
         title: "Hux Blog",
         href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
     }
 ]
