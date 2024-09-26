@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      "今日小结"
+subtitle:   "2024-09-26"
+date:       2024-09-26
+author:     "Sun"
+
+catalog: true
+
+---
+
+# 【今日反思】
+
+## 数学建模板块
+肝了四天，最好实在肝不动了，本来以为我是最摆的，一定会拖后腿，没想到，现实确实我一个菜B全程带着队友做，不过这次心态很好，没有了本科时期为了拿奖而参加比赛的心态，这次比赛虽然很累，但我最自己只有一个要求——不要拖后腿，学到东西，不焦虑。目前来看，自己做到了‘要求’。
+
+## 计算机四大件学习记录
+[计算机网络cs144手搓tcpip协议栈的；学网络设备的话那种思科的仿真软件也好玩的；操作系统网上也好找的写一个简单都OS，反正太多人写了，很好找学习，也可以找好的学校的实验课程；做那些实验计算机组成原理csapp前几章；](https://www.zhihu.com/question/667900748/answer/3633166367)
+
+你可以在计算机体系结构（国内叫计算机组成原理）那一层只学个理论，然后上面软件部分就部分实践。1.system software，C Library 和 compiler 了解就行了，反正手写非常的耗时。2.operating system，这个可以手写，csdiy 和国内南大JYY的操作系统课，写个非常小的 TSOS（比如 minix，YanyanOS），或者再降低要求，跟着韦东山写一个 RTOS。3.computer network，这个可以找一本书，有配套实验课来做实验，然后再看看 unix network programming。
+[来源：ShiinaKaze](https://www.zhihu.com/question/667900748/answer/3634794539)
+
+
+
+MIT 有门课讲过被称为 competing abstract layers 的东西。
+从底层到高层可以这么排列，数字越大，抽象层次越高。层级 1 除外，这个层级是纯理论。
+
+- Model of Computation
+- Physics
+- Semiconductor Device
+- Analog Circuit
+- Digital Circuit
+- Architecture
+- Firmware
+- Operation System
+- System Software
+- Application Software
+Model of computation->Analog circuit 是一个重要过程代表人物：香农、图灵。
+Analog circuit->Architecture 也是一个重要过程，代表人物：冯·诺依曼。
+这样你就能清晰认识到一个完整的电子计算机了。
+
+
+
+
+[怎么系统的学习计算机知识？ - ShiinaKaze的回答 - 知乎](https://www.zhihu.com/question/641432698/answer/3378495624)
+
+
+
+[计算机体系结构学习路线 - 不坠青云之志的文章 - 知乎](https://zhuanlan.zhihu.com/p/654821469)
