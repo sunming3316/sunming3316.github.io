@@ -19,7 +19,7 @@ catalog: true
 ## 今日感悟
 今天下午发现自己，完全不能专注于难度较大的内容，对于新知识的接受能力明显下降，甚至最多看10分钟，不知道是不是短视频刷多了，还是如何？？？ 反正人是刷傻了。 
 
-不过刷到了晓华老师（贼拉儿崇拜）之气发的两篇篇文章：  
+不过刷到了晓华老师之气发的两篇篇文章：  
 [高效学习:如何学习和阅读代码(转载至左耳听风)- 博客园](https://www.cnblogs.com/khacker/articles/12776709.html?tt_force_outside=1)  
 [如何让大脑喜欢做困难的事情（纠正高水平多巴胺耐受性）](https://drive.google.com/file/d/1lfrlr-_oFSboEidFwUMDul3OLdbtyf1-/view?usp=drive_link)
 
