@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "今日小结"
+title:      "大佬的博客"
 subtitle:   "2023-10-07"
 date:       2023-10-07
 author:     "Sun"
