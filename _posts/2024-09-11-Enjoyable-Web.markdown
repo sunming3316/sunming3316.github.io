@@ -64,7 +64,7 @@ catalog: true
 
 [蓝牙驱动](https://downloadmirror.intel.com/825880/BT-23.60.0-64UWD-Win10-Win11.exe)
 
-[南科大-校园网远程连接Windows]（https://sustech.online/service/network/remote-desktop）
+[南科大-校园网远程连接Windows](https://sustech.online/service/network/remote-desktop)
 
 [KAUST-VSPR](https://vsrp.kaust.edu.sa)
 
