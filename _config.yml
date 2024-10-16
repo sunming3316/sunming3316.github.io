@@ -12,11 +12,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     sunming3316
+zhihu_username:     sunming3316
+github_username:    sunming3316
+# twitter_username:  sunming3316
+# facebook_username:  sunming3316
 
 
 
@@ -24,7 +24,7 @@ facebook_username:  huxpro
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -50,9 +50,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+# duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -62,13 +62,13 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: sunming3316.github.io
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "弱小和无知不是障碍，傲慢才是！"
+sidebar-about-description: "弱小和无知不是障碍，傲慢才是"
 sidebar-avatar: /img/avatar-sun.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -86,3 +86,6 @@ friends: [
         href: "http://huangxuan.me"
     }
 ]
+
+
+
