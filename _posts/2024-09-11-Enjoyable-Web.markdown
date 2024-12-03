@@ -114,4 +114,36 @@ catalog: true
 
 [如何打造一份网页版简历](https://mrluo.life/article/detail/127/experience-of-building-web-cv)
 
+[CSDiy](https://csdiy.wiki/)
 
+[手机本地部署小模型](https://blog.stv.lol/article/LLM-on-phone)
+
+[Follow浏览器](https://follow.is/)
+
+[国内最大的AI图片生成网站](https://www.liblib.art/)
+
+[点击统计工具](https://umami.is/)
+
+[捕蛇者说](https://pythonhunter.org/)
+
+[超精致Clash](https://github.com/LibNyanpasu/clash-nyanpasu)
+
+[超好用-局域网传输工具](https://localsend.org/#/download)
+
+[好看的AI工作区软件（制作思维导图、新一代笔记软件）](https://affine.pro/)
+
+[AI编辑器（青春版Cursor）](https://codeium.com/windsurf)
+
+[pearai](https://trypear.ai/)
+
+[易中天品三国](https://www.youtube.com/playlist?list=PLlD7SeKBB31c-13gX1OAVfEoWSLRsDOwU)
+
+[超快、超简洁界面版Giit](https://fork.dev/)
+
+[团队开发、AI检索代码](https://pieces.app/)
+
+[Lobe Chat---chatgpt-API调用工具](https://lobehub.com/zh)
+
+[Lobe Chat私有化部署](https://lobehub.com/zh/docs/self-hosting/start)
+
+[WSL开启代理](https://v3u.cn/a_id_363#google_vignette)
