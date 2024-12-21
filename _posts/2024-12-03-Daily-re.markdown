@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《肖申克的救赎》小思"
+title:      "今日小思"
 subtitle:   "2024-12-3"
 date:       2024-12-3
 author:     "Sun"
