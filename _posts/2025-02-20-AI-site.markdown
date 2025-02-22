@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "AI资源整理"
+subtitle:   "2025-02-20"
+date:       2025-02-20
+author:     "Sun"
+
+catalog: true
+
+---
+# 深度学习资源整理
+
+## 1. 大纲笔记
+[大纲笔记 - D2L](https://www.yuque.com/tully/d2l)
+
+## 2. 深度学习概念详解
+[DL概念详解文章 - Distill](https://distill.pub/)
+
+## 3. LLM GPU 集群训练指南
+[LLM GPU 集群训练指南 - Hugging Face](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+
+## 4. 编程大模型
+[编程大模型 - Bolt](https://bolt.new/)
