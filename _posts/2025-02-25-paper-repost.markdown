@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "转载--人生苦短，及时行乐"
-subtitle:   "2025-02-26"
-date:       2025-02-26
+subtitle:   "2025-02-25"
+date:       2025-02-25
 author:     "Sun"
 
 catalog: true
