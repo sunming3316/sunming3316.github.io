@@ -8,18 +8,13 @@ author:     "Sun"
 catalog: true
 
 ---
-- **大纲笔记**  
-  [https://www.yuque.com/tully/d2l](https://www.yuque.com/tully/d2l)
+# 资源整理
 
-- **DL概念详解文章**  
-  [https://distill.pub/](https://distill.pub/)
-
-- **LLM GPU 集群训练指南**  
-  [https://huggingface.co/spaces/nanotron/ultrascale-playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
-
-- **编程大模型**  
-  [https://bolt.new/](https://bolt.new/)
-
-- **卷积的理解**  
-  [https://www.zdaiot.com/MachineLearning/](https://www.zdaiot.com/MachineLearning/)  
-  *西电的佬*
+- 大纲笔记：https://www.yuque.com/tully/d2l
+- DL概念详解文章：https://distill.pub/
+- LLM GPU 集群训练指南：https://huggingface.co/spaces/nanotron/ultrascale-playbook
+- 编程大模型：https://bolt.new/
+- 卷积的理解：https://www.zdaiot.com/MachineLearning/
+  - 西电的佬
+- API中转服务商：https://next.iois.me/dailyio-llm-service/
+- 超深度搜索：https://websets.exa.ai/
