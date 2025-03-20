@@ -8,8 +8,6 @@ author:     "Sun"
 catalog: true
 
 ---
-# 主题：CSAPP 学习记录
-
 ## 推荐资源
 
 - ⭐⭐康宇PL's Blog——CS基础课不完全自学指南  
