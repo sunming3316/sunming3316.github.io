@@ -1,0 +1,72 @@
+---
+layout:     post
+title:      "计算机四大件学习记录"
+subtitle:   "2025-03-19"
+date:       2025-03-19
+author:     "Sun"
+
+catalog: true
+
+---
+# 主题：CS 四大件学习记录
+
+## 计算机网络、操作系统与组成原理
+
+**内容摘录 1**  
+计算机网络 CS144 手搓 TCP/IP 协议栈的……学网络设备的话，那种思科的仿真软件也好玩的……操作系统网上也好找的，写一个简单的 OS……反正太多人写了……很好找学习……也可以找好学校的实验课程……做那些实验。计算机组成原理 CSAPP 前几章，再找本好的计组的书啃，学点数字电路什么的。  
+
+**作者**：一条很咸的鱼  
+**链接**：[https://www.zhihu.com/question/667900748/answer/3633166367](https://www.zhihu.com/question/667900748/answer/3633166367)  
+
+---
+
+**内容摘录 2**  
+但是，你可以在计算机体系结构（国内叫计算机组成原理）那一层只学个理论，然后上面软件部分就部分实践。  
+1. **System Software**：C Library 和 Compiler 了解就行了，反正手写非常耗时。  
+2. **Operating System**：这个可以手写，CSDIY 和国内南大 JYY 的操作系统课，写个非常小的 TSOS（比如 Minix、YanyanOS），或者再降低要求，跟着韦东山写一个 RTOS。  
+3. **Computer Network**：可以找一本书，有配套实验课来做实验，然后再看看 *Unix Network Programming*。  
+
+**作者**：ShiinaKaze  
+**链接**：[https://www.zhihu.com/question/667900748/answer/3634794539](https://www.zhihu.com/question/667900748/answer/3634794539)  
+**来源**：知乎  
+
+---
+
+## MIT 的抽象层级理论
+
+MIT 有门课讲过被称为 **Competing Abstract Layers** 的东西。从底层到高层可以这么排列，数字越大，抽象层次越高。层级 1 除外，这个层级是纯理论：  
+
+- Model of Computation  
+- Physics  
+- Semiconductor Device  
+- Analog Circuit  
+- Digital Circuit  
+- Architecture  
+- Firmware  
+- Operation System  
+- System Software  
+- Application Software  
+
+### 重要过程
+1. **Model of Computation -> Analog Circuit**  
+   代表人物：香农、图灵  
+2. **Analog Circuit -> Architecture**  
+   代表人物：冯·诺依曼  
+
+这样你就能清晰认识到一个完整的电子计算机了。
+
+### Computer System 分类
+- **Hardware**  
+- **Software**  
+
+---
+
+## 推荐阅读与资源
+
+- **怎么系统地学习计算机知识？**  
+  作者：ShiinaKaze  
+  链接：[https://www.zhihu.com/question/641432698/answer/3378495624](https://www.zhihu.com/question/641432698/answer/3378495624)  
+
+- **计算机体系结构学习路线**  
+  作者：不坠青云之志  
+  链接：[https://zhuanlan.zhihu.com/p/654821469](https://zhuanlan.zhihu.com/p/654821469)  
