@@ -12,7 +12,7 @@ catalog: true
 
 # 有意思的网站
 
-[zlibrary](https://singlelogin.re/)
+[zlibrary](https://zh.italian-books.sk/)
 
 [音乐格式转换网站](https://openyyy.com/NCM-to-MP3)
 
